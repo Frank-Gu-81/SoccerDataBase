@@ -1,0 +1,9 @@
+Joy,5,Forward
+Megan,9,Forward
+Molly,10,Forward
+Hope,12,Goalkeeper
+Jane,12,Midfield
+Tamara,22,Defense
+Alia,26,Sweeper
+Beth,45,Midfield
+Holly,56,Stopper
